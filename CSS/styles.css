@@ -10,6 +10,7 @@
 .PH{
     width: 100%;
     height: 90px;
+    margin:center;
     background-color: rgb(255, 0, 0);
 }
 .P1{
@@ -18,10 +19,12 @@
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align:center;
     text-decoration: underline;
+    margin:center;
 }
 .listgen{
     font-size:45px;
     text-align: center;
+    margin:center;
 }
 .rojo{
     color:red
@@ -32,6 +35,7 @@
 .gen{
     font-size:30px;
     text-align:center;
+    margin:center;
 }
 .sh{
     color:rgb(182, 0, 0);
