@@ -6,6 +6,7 @@
 }
 .FF7{
     width: 100%;
+    margin:center;
 }
 .PH{
     width: 100%;
@@ -33,7 +34,7 @@
     color:blue;
 }
 .gen{
-    font-size:30px;
+    font-size:25px;
     text-align:center;
     margin:center;
 }
