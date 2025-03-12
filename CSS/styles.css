@@ -5,7 +5,7 @@
     font-weight: 900;
 }
 .FF7{
-    width: 900px;
+    width: 100%;
 }
 .PH{
     width: 100%;
@@ -21,7 +21,7 @@
 }
 .listgen{
     font-size:45px;
-text-align: center;
+    text-align: center;
 }
 .rojo{
     color:red
@@ -43,6 +43,7 @@ text-align: center;
     line-height:1;
     letter-spacing:1px;
     text-transform: lowercase;
+    margin:center;
 }
 .F{
     background-color:rgb(217, 255, 0);
