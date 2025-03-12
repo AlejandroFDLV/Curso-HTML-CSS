@@ -7,7 +7,8 @@
 .vid{
     padding-top:20px;
     margin:0;
-    width:18%;
+    width:240px;
+    height:360px;
 }
 .FF7{
     width: 100%;
@@ -39,7 +40,7 @@
     color:blue;
 }
 .gen{
-    font-size:180%;
+    font-size:165%;
     text-align:center;
     margin:center;
 }
