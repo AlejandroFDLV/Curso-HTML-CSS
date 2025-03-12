@@ -1,0 +1,28 @@
+body{
+    margin:5px;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card{
+    background-color: rgb(255, 255, 255);
+    text-align:center;
+    width:900px;
+    margin:auto;
+    margin-top: 10px;
+}
+h1{
+    padding-top:10px;
+    font-size: 90px;
+    margin:0;
+}
+h2{
+    font-size:40px;
+    padding-top:2px;
+    letter-spacing: 2px;
+}
+p{
+    font-size:20px;
+    padding:20px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+}

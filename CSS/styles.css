@@ -1,0 +1,124 @@
+/* Index.html */
+@font-face {
+    font-family: "SH";
+    src: url("silent_hill_font/SLNTHLE.TTF");
+    font-weight: 900;
+}
+.FF7{
+    width: 900px;
+}
+.PH{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(255, 0, 0);
+}
+.P1{
+    color:rgb(0, 0, 161);
+    font-size:50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    text-decoration: underline;
+}
+.listgen{
+    font-size:45px;
+text-align: center;
+}
+.rojo{
+    color:red
+}
+.azul{
+    color:blue;
+}
+.gen{
+    font-size:30px;
+    text-align:center;
+}
+.sh{
+    color:rgb(182, 0, 0);
+    font-family:'SH';
+    font-size:30px;
+    font-weight:900;
+    font-style:italic;
+    text-align:justify;
+    line-height:1;
+    letter-spacing:1px;
+    text-transform: lowercase;
+}
+.F{
+    background-color:rgb(217, 255, 0);
+}
+
+
+/* Enlaces 1 */
+form{
+    width:500px;
+    padding: 100px 5px 4px 20px;
+    background-color: rgb(123, 255, 0);
+}
+.d{
+    background-color: blue;
+    width:1000px;
+    height:200px;
+}
+.H{
+    color: aqua;
+    background-color: black;
+    height: 100px;
+    text-align: center;
+}
+.Formu{
+    width:50%;
+    height: 20px;
+    padding: 15px 15px 15px;
+}
+.a{
+    background-color: rgb(234, 0, 255);
+}
+.s{
+    color: aqua;
+    background-color: black;
+    margin:10px;
+}
+.ola{
+    background:rgb(0, 255, 136);
+    padding:50px;
+    margin:20px;
+    width:70px;
+}
+.FE1{
+    background-color:rgb(42, 165, 159)
+}
+
+/* Enlaces 2 */
+.en2{
+    background-color: rgb(105, 105, 105);
+}
+.box1{
+    width: 510px;
+    height: 150px;
+    margin:50px;
+    background-color: rgb(224, 6, 6);
+}
+.separador{
+    overflow:hidden;
+}
+.box2{
+    width: 510px;
+    height: 150px;
+    margin:20px;
+    background-color: brown;
+}
+
+/* Enlaces 3 */
+.TLS{
+    width:90%;
+}
+.TheLastS{
+    color: black;
+    text-align: center;
+    background-color: blue;
+}
+.papupapu{
+    color:aliceblue
+}
+
