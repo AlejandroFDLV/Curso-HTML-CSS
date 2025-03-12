@@ -4,6 +4,10 @@
     src: url("silent_hill_font/SLNTHLE.TTF");
     font-weight: 900;
 }
+.vid{
+    padding-top:20px;
+    margin:0;
+}
 .FF7{
     width: 100%;
     margin:center;
@@ -44,7 +48,7 @@
     font-size:200%;
     font-weight:900;
     font-style:italic;
-    text-align:center;
+    text-align:justify;
     line-height:1;
     letter-spacing:1px;
     text-transform: lowercase;
