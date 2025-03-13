@@ -4,11 +4,19 @@
     src: url("silent_hill_font/SLNTHLE.TTF");
     font-weight: 900;
 }
+.contenedorCabecera{
+    text-align: center;
+    margin:center;
+}
+.webiwabo{
+    text-align: center;
+}
 .vid{
     padding-top:20px;
-    margin:0;
+
     width:240px;
     height:360px;
+    text-align: center;
 }
 .FF7{
     width: 100%;
@@ -18,6 +26,7 @@
     width: 100%;
     height: 90px;
     margin:center;
+    text-align: center;
     background-color: rgb(255, 0, 0);
 }
 .P1{
@@ -103,7 +112,7 @@ form{
 
 /* Enlaces 2 */
 .en2{
-    background-color: rgb(105, 105, 105);
+    background-color: rgb(0, 255, 21);
 }
 .box1{
     width: 510px;
@@ -120,6 +129,52 @@ form{
     margin:20px;
     background-color: brown;
 }
+.border{
+    background-color: rgb(0, 255, 136);
+    border-width: 10px;
+    border-color: blue;
+    border-style: solid;
+    width:150px;
+    border-radius: 40px;
+    text-align:center;
+}
+.border2{
+    border: 10px solid blue;
+    background-color: rgb(0, 255, 136);
+    border-radius: 40px;
+    text-align:center;
+    width:150px;
+    margin-top: 10px;
+}
+.border3{
+    margin-top: 10px;
+    border: 10px solid;
+    text-align:center;
+    width:100px;
+    background-color: aliceblue;
+    border-top-right-radius: 20px ;
+    border-top-left-radius: 60px ;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius:5px;
+}
+.inpute2{
+    margin: 20px 0 0 0;
+    border:none;
+    width: 90px;
+}
+.inpute3{
+    border-radius: 30px 15px;
+}
+.contraE2{
+    margin:20px;
+    padding: 20px;
+    border:none;
+    background-color: rgb(0, 255, 21);
+    color: rgb(0, 183, 255);
+    border-bottom: 6px solid red;
+    border-radius:4px;
+}
+
 
 /* Enlaces 3 */
 .TLS{
@@ -135,6 +190,7 @@ form{
 }
 .laulti{
     text-align: center;
+    text-align: justify;
     margin:center;
     color:rgb(255, 255, 255);
 }
