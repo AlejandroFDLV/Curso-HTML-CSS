@@ -279,7 +279,7 @@ span1{
     background-color: #0007;
     color:white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    border-radius:90px;
+    border-radius:35px;
     font-size:22px;
     padding: 5px;
     width:100%;
@@ -303,3 +303,5 @@ span1{
     text-align: center;
     padding:50px;
 }
+
+/* Enlaces 6 */
