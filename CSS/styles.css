@@ -338,4 +338,10 @@ span1{
     margin-bottom:180px;
     box-shadow: 0 0 30px 10px #0007;
     border-radius:20px;
+    text-align:justify;
+    padding:20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+spanTXT{
+    font-size:300%;
 }
