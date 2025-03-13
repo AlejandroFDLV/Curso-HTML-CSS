@@ -209,6 +209,7 @@ form{
 /* Enlaces 4 */
 .e4b{
     margin:0;
+    background-color: #F00;
 }
 .boxE4{
     width:200px;
@@ -234,4 +235,25 @@ form{
     height:60px;
     background-color:black;
     margin:20px
+}
+.txtE4{
+    text-align: left;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 15px;
+    background-color: #dadada;
+    border-left: 10px solid gray;
+    margin: 20px;
+}
+.spider{
+    width:70%;
+    margin:20px;
+}
+span1{
+    color:rgba(75, 75, 75, 0.500);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+}
+.cajaSM{
+    text-align: center;
 }
