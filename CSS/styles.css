@@ -257,3 +257,49 @@ span1{
 .cajaSM{
     text-align: center;
 }
+.vpc{
+    background-color: #dadada;
+    height: 10vh;
+    width:10vw;
+    box-sizing: border-box;
+}
+
+/* Enlaces 5 */
+
+.e5f{
+    box-sizing:border-box;
+    padding: 10px;
+    margin:0;
+    background-color: black;
+    background: url('../img/SHP.jpg') center / cover fixed no-repeat;
+}
+.wazae5{
+    box-sizing:border-box;
+    text-align:center;
+    background-color: #0007;
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius:90px;
+    font-size:22px;
+    padding: 5px;
+    width:100%;
+    margin:25px 0 25px 0;
+}
+.cuadroB{
+    box-sizing:border-box;
+    width:100%;
+    height:20%;
+    margin: 30px;
+    background:white;
+    margin:0;
+}
+.SHLV{
+    box-sizing: border-box;
+    width: 100%;
+    padding:20px;
+}
+.infSH2{
+    box-sizing: border-box;
+    text-align: center;
+    padding:50px;
+}
